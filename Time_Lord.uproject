@@ -15,5 +15,8 @@
 			"Name": "ALSV4_CPP",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
